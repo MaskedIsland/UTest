@@ -6,5 +6,6 @@ The rapid development of urbanization has facilitated the process of urban plann
 ---
 
 ## Visualization
-![image]()
-![image]()
+
+![Long sequence prediction](https://github.com/MaskedIsland/UTest/blob/main/figures/long-seq-test.png)
+![Loss in training process](https://github.com/MaskedIsland/UTest/blob/main/figures/training-process.png)
