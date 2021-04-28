@@ -6,10 +6,10 @@ The rapid development of urbanization has facilitated the process of urban plann
 ---
 
 ## Data
-<div align=center><img width="500" height="700" src="https://github.com/MaskedIsland/UTest/blob/main/figures/data-processing.png"/></div>
+<div align=center><img width="250" height="350" src="https://github.com/MaskedIsland/UTest/blob/main/figures/data-processing.png"/></div>
 
 ## Model
-<div align=center><img width="500" height="700" src="https://github.com/MaskedIsland/UTest/blob/main/figures/framework.png"/></div>
+<div align=center><img width="400" height="500" src="https://github.com/MaskedIsland/UTest/blob/main/figures/framework.png"/></div>
 
 
 ## Visualization
